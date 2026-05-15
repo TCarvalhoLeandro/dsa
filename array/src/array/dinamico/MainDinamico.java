@@ -9,7 +9,7 @@ public class MainDinamico {
 		ArrayDinamico array = new ArrayDinamico(10);
 		
 		PrintArray.printAll(array);
-
+ 
 	}
 
 }
